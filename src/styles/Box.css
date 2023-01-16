@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+    
+
+}
+.coursList{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 100%;
+    list-style-type: none;
+    justify-content: center;
+    
+}
+.CoursItem{
+    border: solid 2px black;
+    height: 130px;
+    width: 160px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    margin: 10px;
+    font-size: large;
+    font-weight: 900;
+    border-radius: 20px;
+    
+
+}
+p{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 1.2em;
+    text-align: justify;
+    padding: 10px;
+}
+li{
+    text-decoration: none;
+}
