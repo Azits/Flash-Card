@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/flash-card/static/css/main.4945b13b.css",
+    "main.js": "/flash-card/static/js/main.f6af59cc.js",
+    "static/js/787.909a664e.chunk.js": "/flash-card/static/js/787.909a664e.chunk.js",
+    "static/media/ln.png": "/flash-card/static/media/ln.203e6fe4a6ff417ecf0f.png",
+    "static/media/Polynome.png": "/flash-card/static/media/Polynome.afcc4d1acbba013b9ff4.png",
+    "static/media/Analyse.svg": "/flash-card/static/media/Analyse.6cf7b386ec8ca93d5baa6f128db19aca.svg",
+    "static/media/Algebra.svg": "/flash-card/static/media/Algebra.955139e445498e7ab03632d2c97e21fd.svg",
+    "index.html": "/flash-card/index.html",
+    "main.4945b13b.css.map": "/flash-card/static/css/main.4945b13b.css.map",
+    "main.f6af59cc.js.map": "/flash-card/static/js/main.f6af59cc.js.map",
+    "787.909a664e.chunk.js.map": "/flash-card/static/js/787.909a664e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4945b13b.css",
+    "static/js/main.f6af59cc.js"
+  ]
+}
