@@ -2,7 +2,7 @@
   "name": "flash-card",
   "version": "0.1.0",
   "private": true,
-  "homme": "https://Azits_githubgithub.io/FlashCards/src/index.js",
+  "hommepage": "https://Azits_githubgithub.io/flash-card",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
